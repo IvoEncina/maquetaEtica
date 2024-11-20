@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Significado de la Maqueta y las Éticas Representadas</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #4CAF50;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        h1 {
+            font-size: 2.5rem;
+        }
+        h2 {
+            font-size: 2rem;
+        }
+        h3 {
+            font-size: 1.5rem;
+        }
+        p {
+            margin: 1rem 0;
+            padding: 0 1rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1rem;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background: #4CAF50;
+            color: #fff;
+            position: relative;
+            width: 100%;
+            bottom: 0;
+        }
+        .spacer {
+            height: 50px; /* Espacio en blanco para que el footer no tape el texto */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Significado de la Maqueta y las Éticas Representadas</h1>
+    </header>
+    <div class="container">
+        <h2>Introducción</h2>
+        <p>La maqueta que he creado representa cinco caminos diferentes que simbolizan distintas éticas filosóficas. Estos caminos convergen en un círculo central, donde se encuentra un frondoso árbol con frutas, simbolizando la interconexión y la armonía entre las diversas perspectivas éticas. Cada camino está adornado con elementos específicos que representan su respectiva ética, y cada uno tiene un cartel con una frase que encapsula su esencia.</p>
+        
+        <h3>Ética del Utilitarismo</h3>
+        <p><strong>Elementos Representativos</strong>: Margaritas y hormigas.</p>
+        <p><strong>Frase</strong>: "El bien para el mayor número. El bienestar colectivo guía nuestras decisiones."</p>
+        <p>El utilitarismo es una teoría ética que sostiene que la mejor acción es la que maximiza el bienestar general. Las margaritas, que crecen en grupo, y las hormigas, que trabajan en equipo para el bien del hormiguero, simbolizan esta ética. La frase destaca la importancia de tomar decisiones que beneficien al mayor número de personas posible.</p>
+        
+        <h3>Ética del Hedonismo</h3>
+        <p><strong>Elementos Representativos</strong>: Copa de vino y uvas.</p>
+        <p><strong>Frase</strong>: "El placer es el camino hacia la felicidad. Disfruta el presente."</p>
+        <p>El hedonismo es una teoría ética que considera el placer como el bien supremo y la meta de la vida. La copa de vino y las uvas representan el disfrute de los placeres sensoriales y la búsqueda de la felicidad a través del placer. La frase enfatiza la importancia de disfrutar el presente y buscar la felicidad en los placeres de la vida.</p>
+        
+        <h3>Ética de Epicuro</h3>
+        <p><strong>Elementos Representativos</strong>: Mate, galleta y cartas.</p>
+        <p><strong>Frase</strong>: "El placer está en la tranquilidad. La ausencia de dolor es la mayor felicidad."</p>
+        <p>La ética de Epicuro se centra en la búsqueda del placer a través de la tranquilidad y la ausencia de dolor. El mate, la galleta y las cartas representan momentos de disfrute y placer en la tranquilidad, evitando el dolor y el exceso. La frase resalta que la mayor felicidad se encuentra en la ausencia de dolor y en la serenidad.</p>
+        
+        <h3>Ética de Sócrates</h3>
+        <p><strong>Elementos Representativos</strong>: Libro y máscara de ópera.</p>
+        <p><strong>Frase</strong>: "Conócete a ti mismo. La sabiduría es la base de la virtud."</p>
+        <p>La ética de Sócrates se basa en la búsqueda del conocimiento y el autoconocimiento para alcanzar un carácter virtuoso. El libro simboliza la búsqueda del conocimiento, y la máscara de ópera representa el uso del dialecto y la interrogación para guiar a las personas hacia el autoconocimiento y la comprensión de la virtud. La frase subraya la importancia del autoconocimiento y la sabiduría como base de la virtud.</p>
+        
+        <h3>Ética de la Virtud</h3>
+        <p><strong>Elementos Representativos</strong>: Escalera y medalla de oro.</p>
+        <p><strong>Frase</strong>: "Haz el bien y serás virtuoso."</p>
+        <p>La ética de la virtud se centra en el desarrollo personal y el progreso hacia la virtud. La escalera simboliza el desarrollo personal y el progreso hacia la virtud, mientras que la medalla de oro representa el logro del carácter virtuoso y cómo se cultiva con el tiempo. La frase destaca la importancia de hacer el bien para alcanzar la virtud.</p>
+        
+        <h3>El Árbol Central</h3>
+        <p>El árbol frondoso con frutas en el centro del círculo simboliza la interconexión y la armonía entre las diversas perspectivas éticas. Cada camino, con sus elementos representativos y frases, converge en el árbol, mostrando que, aunque las éticas pueden diferir en sus enfoques, todas buscan el bienestar y la felicidad del ser humano. El árbol también representa el crecimiento y la fructificación de las virtudes y valores que cada ética promueve.</p>
+        
+        <h3>Conclusión</h3>
+        <p>Esta maqueta es una representación visual de cómo diferentes caminos éticos pueden coexistir y complementarse, cada uno aportando su propia perspectiva y contribuyendo al bienestar general. Los elementos y frases de cada camino ayudan a entender mejor las enseñanzas de cada ética y cómo se relacionan con el objetivo común de alcanzar una vida virtuosa y plena.</p>
+        
+        <p><strong>Autor:</strong> Ivo Encina</p>
+    </div>
+    <div class="spacer"></div>
+    <footer>
+        <p>&copy; 2024 Significado de la Maqueta y las Éticas Representadas. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
